@@ -1,11 +1,11 @@
 {
-  "name": "XJCF",
+  "name": "Gene",
   "version": "1.0.0",
-  "title": "星际厨房计划",
+  "title": "基因计划",
   "author": "lazy",
   "factorio_version": "1.1",
   "dependencies": [
     "base >= 1.1.26"
   ],
-  "description": "星际厨房计划"
+  "description": "基因计划"
 }
